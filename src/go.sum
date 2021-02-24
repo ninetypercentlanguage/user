@@ -1,4 +1,6 @@
 github.com/go-chi/chi v1.5.1 h1:kfTK3Cxd/dkMu/rKs5ZceWYp+t5CtiE7vmaTv3LjC6w=
 github.com/go-chi/chi v1.5.1/go.mod h1:REp24E+25iKvxgeTfHmdUoL5x15kBiDBlnIl5bCwe2k=
-github.com/ninetypercentlanguage/entities v0.1.1 h1:XY89jUr6AaYDr7kJvPtnCvGm9fBUynBSQj4CdFh3c8s=
-github.com/ninetypercentlanguage/entities v0.1.1/go.mod h1:d2aIoGnwW3j9LcwIfg3mtsZbnDz80t2mf38ntF9GcBM=
+github.com/lib/pq v1.9.0 h1:L8nSXQQzAYByakOFMTwpjRoHsMJklur4Gi59b6VivR8=
+github.com/lib/pq v1.9.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/ninetypercentlanguage/entities v0.1.2 h1:QIIf2yy+0VSib3MRhDf5RubFUU6gt/hAJVi1x0vBwd8=
+github.com/ninetypercentlanguage/entities v0.1.2/go.mod h1:d2aIoGnwW3j9LcwIfg3mtsZbnDz80t2mf38ntF9GcBM=
